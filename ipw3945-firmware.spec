@@ -7,8 +7,8 @@ Name:		ipw3945-firmware
 Version:	1.13
 Release:	0.1
 License:	distributable
-Group:		System Environment/Kernel
-Source0:	http://bughost.org/%{nameprog}/ucode/%{nameprog}-ucode-%{version}.tgz
+Group:		Base/Kernel
+Source0:	http://bughost.org/ipw3945/ucode/%{nameprog}-ucode-%{version}.tgz
 # Source0-md5:	9190f498f85f83135ee7e7a1d330832e
 URL:		http://ipw3945.sourceforge.net/firmware.php
 BuildArch:	noarch
