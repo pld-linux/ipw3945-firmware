@@ -4,12 +4,12 @@
 Summary:	Firmware for the Intel(R) PRO/Wireless 3945 Driver
 Summary(pl):	Firmware dla sterownika do kart Intel(R) PRO/Wireless 3945
 Name:		ipw3945-firmware
-Version:	1.13
+Version:	1.14.2
 Release:	0.1
 License:	distributable
 Group:		Base/Kernel
 Source0:	http://bughost.org/ipw3945/ucode/%{nameprog}-ucode-%{version}.tgz
-# Source0-md5:	9190f498f85f83135ee7e7a1d330832e
+# Source0-md5:	c1c4cc7f993f448e7c05768c012084aa
 URL:		http://ipw3945.sourceforge.net/firmware.php
 BuildArch:	noarch
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
