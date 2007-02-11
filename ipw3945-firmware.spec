@@ -10,7 +10,7 @@ License:	distributable
 Group:		Base/Kernel
 Source0:	http://bughost.org/ipw3945/ucode/%{nameprog}-ucode-%{version}.tgz
 # Source0-md5:	c1c4cc7f993f448e7c05768c012084aa
-URL:		http://ipw3945.sourceforge.net/firmware.php
+URL:		http://bughost.org/ipw3945/
 BuildArch:	noarch
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
