@@ -2,7 +2,7 @@
 %define		nameprog ipw3945
 
 Summary:	Firmware for the Intel(R) PRO/Wireless 3945 Driver
-Summary(pl.UTF-8):   Firmware dla sterownika do kart Intel(R) PRO/Wireless 3945
+Summary(pl.UTF-8):	Firmware dla sterownika do kart Intel(R) PRO/Wireless 3945
 Name:		ipw3945-firmware
 Version:	1.14.2
 Release:	0.1
